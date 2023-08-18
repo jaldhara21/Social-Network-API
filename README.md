@@ -104,7 +104,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 - JSON: [JSON](https://www.npmjs.com/package/json)
 - Dynamic JavaScript
 - Mongoose: [7.4.3](https://www.npmjs.com/package/mongoose)
-- Express.js: [1.0.0](https://www.npmjs.com/package/express)
+- Express.js: [4.18.2](https://www.npmjs.com/package/express)
 - Node.js: [16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Insomnia: [by Kong](https://insomnia.rest/)
 - MongoDB: [Website](https://www.mongodb.com/)
