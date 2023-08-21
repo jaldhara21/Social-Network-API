@@ -35,7 +35,7 @@ const reactionSchema = new Schema (
     }
 )
 
-// Defining the schema for a thought
+// Schema to create a Thought Model
 const thoughtSchema = new Schema (
     {
       thoughtText: {
