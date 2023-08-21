@@ -4,7 +4,7 @@ const db = require("./config/connection");
 const routes = "./routes";
 
 //Set environment variables
-const port = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 // Middleware to parse incoming data
