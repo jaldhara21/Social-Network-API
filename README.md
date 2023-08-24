@@ -82,7 +82,7 @@ Each endpoint must include the necessary data in the request body or URL paramet
 [GitHub Repository:](https://github.com/jaldhara21/Social-Network-API)
 
 ## YouTube Walkthrough Video:
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1EOnc5P2w5X0v8ogFYsEZKP0tPBRrTwFa/view)
 
 ## MongoDB - After creating data on Insomnia, MongoDB also reflects the same data and changes that were made:
 
