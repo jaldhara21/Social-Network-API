@@ -12,8 +12,6 @@ The NoSQL Social Network API serves as a Node.js-based interface for managing so
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
-- [What I Learned](#What-I-Learned)
-- [Continued Development](#Continued-Development)
 - [License](#License)
 - [Author](#Author)
 - [Acknowledgments](#Acknowledgments)
@@ -80,19 +78,17 @@ Each endpoint must include the necessary data in the request body or URL paramet
 13. POST /api/thought/:thoughtId/reactions - add a reaction to a thought
 14. DELETE /api/thought/:thoughtId/reactions/:reactionId - remove a reaction from a thought
 
-
-## Deployed Application Link:
-[Deployed Application Link:]()
-
 ## GitHub Repository:
 [GitHub Repository:](https://github.com/jaldhara21/Social-Network-API)
 
 ## YouTube Walkthrough Video:
 [Click Here to Watch]()
 
-## Screenshots:
-### Figure 1. Screenshot.
-![]() 
+## MongoDB - After creating data on Insomnia, MongoDB also reflects the same data and changes that were made:
+
+![](./public/assets/SocialNetworkDB.png)
+
+![](./public/assets/SocialNetworkDB2.png)
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
